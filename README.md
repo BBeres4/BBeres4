@@ -33,12 +33,5 @@ Building data-driven solutions & analytics projects.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BBeres4&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Connect With Me
-[LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+[LinkedIn](https://www.linkedin.com/in/benjamin-beres-11761126a/)
